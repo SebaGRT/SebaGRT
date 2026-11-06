@@ -19,4 +19,4 @@ Busco mi **primera práctica profesional en backend, cloud o DevOps**.
 
 ## Contacto
 
-[LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-herrera-sarmiento-65a29038b/) · s.herreras@udd.cl
+[LinkedIn](https://www.linkedin.com/in/sebastian-herrera-sarmiento/) · s.herreras@udd.cl
