@@ -1,4 +1,4 @@
-# Hola, soy Sebastián Herrera 👋
+# Hola, soy Sebastián Herrera!
 
 Estudiante de **Ingeniería Civil en Informática e Innovación Tecnológica** en la Universidad del Desarrollo (Santiago, Chile).
 Me interesa la **arquitectura de sistemas**: diseñar, desplegar y operar software que resuelva necesidades reales.
